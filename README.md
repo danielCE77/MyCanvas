@@ -9,4 +9,4 @@ which are:
 *java.awt.Graphics*
 *javax.swing.JPanel*
 
-> note: I make the sun a little bigger :tw-1f31e:
+> note: I make the sun a little bigger :smile:
